@@ -1,2 +1,2 @@
 # Phyton_javoblar
-# print(salom)
+Hurmat ila Farruxbek Rahmatillayev
